@@ -1,0 +1,53 @@
+E:\Học tập\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.Properties.Resources.resources
+E:\Học tập\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.csproj.GenerateResource.Cache
+E:\Học tập\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\bin\Debug\Robotics.exe
+E:\Học tập\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\bin\Debug\Robotics.pdb
+E:\Học tập\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.exe
+E:\Học tập\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.pdb
+E:\Học tập\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.Robotics.resources
+E:\Học tập\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.csprojResolveAssemblyReference.cache
+E:\Study\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\bin\Debug\Robotics.exe
+E:\Study\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\bin\Debug\Robotics.pdb
+E:\Study\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.Properties.Resources.resources
+E:\Study\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.Robot.resources
+E:\Study\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.Robotics.resources
+E:\Study\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.csproj.GenerateResource.Cache
+E:\Study\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.exe
+E:\Study\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.pdb
+E:\Study\20151\Nghiên cứu khoa học\SourceCode\Robotics\Robotics\obj\Debug\Robotics.csprojResolveAssemblyReference.cache
+F:\Projects\Robot_launha\Robotics\Robotics\obj\Debug\Robotics.exe
+F:\Projects\Robot_launha\Robotics\Robotics\obj\Debug\Robotics.pdb
+F:\Projects\Robot_launha\Robotics\Robotics\obj\Debug\Robotics.Properties.Resources.resources
+F:\Projects\Robot_launha\Robotics\Robotics\obj\Debug\Robotics.Robot.resources
+F:\Projects\Robot_launha\Robotics\Robotics\obj\Debug\Robotics.Robotics.resources
+F:\Projects\Robot_launha\Robotics\Robotics\obj\Debug\Robotics.csproj.GenerateResource.Cache
+F:\Projects\Robot_launha\Robotics\Robotics\bin\Debug\Robotics.exe
+F:\Projects\Robot_launha\Robotics\Robotics\bin\Debug\Robotics.pdb
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\bin\Debug\Robotics.exe
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\bin\Debug\Robotics.pdb
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\obj\Debug\Robotics.csprojAssemblyReference.cache
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\obj\Debug\Robotics.Properties.Resources.resources
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\obj\Debug\Robotics.Robot.resources
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\obj\Debug\Robotics.Robotics.resources
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\obj\Debug\Robotics.csproj.GenerateResource.cache
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\obj\Debug\Robotics.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\obj\Debug\Robotics.exe
+C:\Users\Kevin\OneDrive\Máy tính\Robotics\Robotics\obj\Debug\Robotics.pdb
+C:\Users\Kevin\Downloads\VetDauLoang\Robotics\bin\Debug\Robotics.exe
+C:\Users\Kevin\Downloads\VetDauLoang\Robotics\bin\Debug\Robotics.pdb
+C:\Users\Kevin\Downloads\VetDauLoang\Robotics\obj\Debug\Robotics.csprojAssemblyReference.cache
+C:\Users\Kevin\Downloads\VetDauLoang\Robotics\obj\Debug\Robotics.Properties.Resources.resources
+C:\Users\Kevin\Downloads\VetDauLoang\Robotics\obj\Debug\Robotics.Robot.resources
+C:\Users\Kevin\Downloads\VetDauLoang\Robotics\obj\Debug\Robotics.csproj.GenerateResource.cache
+C:\Users\Kevin\Downloads\VetDauLoang\Robotics\obj\Debug\Robotics.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Downloads\VetDauLoang\Robotics\obj\Debug\Robotics.exe
+C:\Users\Kevin\Downloads\VetDauLoang\Robotics\obj\Debug\Robotics.pdb
+C:\Users\Kevin\Downloads\Robotics\Robotics\bin\Debug\Robotics.exe
+C:\Users\Kevin\Downloads\Robotics\Robotics\bin\Debug\Robotics.pdb
+C:\Users\Kevin\Downloads\Robotics\Robotics\obj\Debug\Robotics.csprojAssemblyReference.cache
+C:\Users\Kevin\Downloads\Robotics\Robotics\obj\Debug\Robotics.Properties.Resources.resources
+C:\Users\Kevin\Downloads\Robotics\Robotics\obj\Debug\Robotics.Robot.resources
+C:\Users\Kevin\Downloads\Robotics\Robotics\obj\Debug\Robotics.csproj.GenerateResource.cache
+C:\Users\Kevin\Downloads\Robotics\Robotics\obj\Debug\Robotics.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Downloads\Robotics\Robotics\obj\Debug\Robotics.exe
+C:\Users\Kevin\Downloads\Robotics\Robotics\obj\Debug\Robotics.pdb
